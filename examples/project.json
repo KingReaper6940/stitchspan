@@ -1,0 +1,11 @@
+{
+  "schema": "stitchspan/1",
+  "title": "Practice swatch",
+  "start": 78,
+  "target": 85,
+  "mode": "flat",
+  "method": "kfb",
+  "left": 2,
+  "right": 2,
+  "notes": "A count-only practice plan. Choose stitch technique and row suitability from your own pattern."
+}

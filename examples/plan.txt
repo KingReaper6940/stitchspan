@@ -1,0 +1,28 @@
+Practice swatch
+flat · KFB — one becomes two
+78 source stitches → 85 output stitches; 7 changes.
+Protected edges: 2 / 2. Plain-stitch gaps: 8–9.
+Source numbering follows work order from 1; this is not a conventional knitting chart.
+
+1. Work 2 plain stitches (left protected edge). Output 1–2.
+2. Work 8 plain stitches. Output 3–10.
+3. KFB using source stitch 11. Output 11–12.
+4. Work 8 plain stitches. Output 13–20.
+5. KFB using source stitch 20. Output 21–22.
+6. Work 9 plain stitches. Output 23–31.
+7. KFB using source stitch 30. Output 32–33.
+8. Work 8 plain stitches. Output 34–41.
+9. KFB using source stitch 39. Output 42–43.
+10. Work 8 plain stitches. Output 44–51.
+11. KFB using source stitch 48. Output 52–53.
+12. Work 9 plain stitches. Output 54–62.
+13. KFB using source stitch 58. Output 63–64.
+14. Work 8 plain stitches. Output 65–72.
+15. KFB using source stitch 67. Output 73–74.
+16. Work 9 plain stitches. Output 75–83.
+17. Work 2 plain stitches (right protected edge). Output 84–85.
+
+Count audit: consumed 78, produced 85.
+A count-only practice plan. Choose stitch technique and row suitability from your own pattern.
+
+Single-row arithmetic only; not a garment fit, fabric, symmetry or stitch-pattern guarantee.

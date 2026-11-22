@@ -1,0 +1,286 @@
+{
+  "schema": "stitchspan-report/1",
+  "project": {
+    "schema": "stitchspan/1",
+    "title": "Practice swatch",
+    "start": 78,
+    "target": 85,
+    "mode": "flat",
+    "method": "kfb",
+    "left": 2,
+    "right": 2,
+    "notes": "A count-only practice plan. Choose stitch technique and row suitability from your own pattern."
+  },
+  "audit": {
+    "source": 78,
+    "output": 85,
+    "changes": 7,
+    "gaps": [
+      8,
+      8,
+      9,
+      8,
+      8,
+      9,
+      8,
+      9
+    ],
+    "minGap": 8,
+    "maxGap": 9,
+    "steps": [
+      {
+        "number": 1,
+        "kind": "plain",
+        "count": 2,
+        "edge": "left",
+        "sourceStart": 1,
+        "sourceEnd": 2,
+        "afterSource": null,
+        "outputStart": 1,
+        "outputEnd": 2
+      },
+      {
+        "number": 2,
+        "kind": "plain",
+        "count": 8,
+        "edge": null,
+        "sourceStart": 3,
+        "sourceEnd": 10,
+        "afterSource": null,
+        "outputStart": 3,
+        "outputEnd": 10
+      },
+      {
+        "number": 3,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 11,
+        "sourceEnd": 11,
+        "afterSource": null,
+        "outputStart": 11,
+        "outputEnd": 12
+      },
+      {
+        "number": 4,
+        "kind": "plain",
+        "count": 8,
+        "edge": null,
+        "sourceStart": 12,
+        "sourceEnd": 19,
+        "afterSource": null,
+        "outputStart": 13,
+        "outputEnd": 20
+      },
+      {
+        "number": 5,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 20,
+        "sourceEnd": 20,
+        "afterSource": null,
+        "outputStart": 21,
+        "outputEnd": 22
+      },
+      {
+        "number": 6,
+        "kind": "plain",
+        "count": 9,
+        "edge": null,
+        "sourceStart": 21,
+        "sourceEnd": 29,
+        "afterSource": null,
+        "outputStart": 23,
+        "outputEnd": 31
+      },
+      {
+        "number": 7,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 30,
+        "sourceEnd": 30,
+        "afterSource": null,
+        "outputStart": 32,
+        "outputEnd": 33
+      },
+      {
+        "number": 8,
+        "kind": "plain",
+        "count": 8,
+        "edge": null,
+        "sourceStart": 31,
+        "sourceEnd": 38,
+        "afterSource": null,
+        "outputStart": 34,
+        "outputEnd": 41
+      },
+      {
+        "number": 9,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 39,
+        "sourceEnd": 39,
+        "afterSource": null,
+        "outputStart": 42,
+        "outputEnd": 43
+      },
+      {
+        "number": 10,
+        "kind": "plain",
+        "count": 8,
+        "edge": null,
+        "sourceStart": 40,
+        "sourceEnd": 47,
+        "afterSource": null,
+        "outputStart": 44,
+        "outputEnd": 51
+      },
+      {
+        "number": 11,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 48,
+        "sourceEnd": 48,
+        "afterSource": null,
+        "outputStart": 52,
+        "outputEnd": 53
+      },
+      {
+        "number": 12,
+        "kind": "plain",
+        "count": 9,
+        "edge": null,
+        "sourceStart": 49,
+        "sourceEnd": 57,
+        "afterSource": null,
+        "outputStart": 54,
+        "outputEnd": 62
+      },
+      {
+        "number": 13,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 58,
+        "sourceEnd": 58,
+        "afterSource": null,
+        "outputStart": 63,
+        "outputEnd": 64
+      },
+      {
+        "number": 14,
+        "kind": "plain",
+        "count": 8,
+        "edge": null,
+        "sourceStart": 59,
+        "sourceEnd": 66,
+        "afterSource": null,
+        "outputStart": 65,
+        "outputEnd": 72
+      },
+      {
+        "number": 15,
+        "kind": "kfb",
+        "count": 1,
+        "edge": null,
+        "sourceStart": 67,
+        "sourceEnd": 67,
+        "afterSource": null,
+        "outputStart": 73,
+        "outputEnd": 74
+      },
+      {
+        "number": 16,
+        "kind": "plain",
+        "count": 9,
+        "edge": null,
+        "sourceStart": 68,
+        "sourceEnd": 76,
+        "afterSource": null,
+        "outputStart": 75,
+        "outputEnd": 83
+      },
+      {
+        "number": 17,
+        "kind": "plain",
+        "count": 2,
+        "edge": "right",
+        "sourceStart": 77,
+        "sourceEnd": 78,
+        "afterSource": null,
+        "outputStart": 84,
+        "outputEnd": 85
+      }
+    ],
+    "events": [
+      {
+        "number": 1,
+        "kind": "kfb",
+        "sourceStart": 11,
+        "sourceEnd": 11,
+        "afterSource": null,
+        "outputStart": 11,
+        "outputEnd": 12
+      },
+      {
+        "number": 2,
+        "kind": "kfb",
+        "sourceStart": 20,
+        "sourceEnd": 20,
+        "afterSource": null,
+        "outputStart": 21,
+        "outputEnd": 22
+      },
+      {
+        "number": 3,
+        "kind": "kfb",
+        "sourceStart": 30,
+        "sourceEnd": 30,
+        "afterSource": null,
+        "outputStart": 32,
+        "outputEnd": 33
+      },
+      {
+        "number": 4,
+        "kind": "kfb",
+        "sourceStart": 39,
+        "sourceEnd": 39,
+        "afterSource": null,
+        "outputStart": 42,
+        "outputEnd": 43
+      },
+      {
+        "number": 5,
+        "kind": "kfb",
+        "sourceStart": 48,
+        "sourceEnd": 48,
+        "afterSource": null,
+        "outputStart": 52,
+        "outputEnd": 53
+      },
+      {
+        "number": 6,
+        "kind": "kfb",
+        "sourceStart": 58,
+        "sourceEnd": 58,
+        "afterSource": null,
+        "outputStart": 63,
+        "outputEnd": 64
+      },
+      {
+        "number": 7,
+        "kind": "kfb",
+        "sourceStart": 67,
+        "sourceEnd": 67,
+        "afterSource": null,
+        "outputStart": 73,
+        "outputEnd": 74
+      }
+    ],
+    "verified": true
+  }
+}
