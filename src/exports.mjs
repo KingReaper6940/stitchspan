@@ -22,7 +22,7 @@ export function mapSVG(r){
  for(let i=1;i<=p.start;i++){
   const x=57+((i-1)%cols)*17,y=115+Math.floor((i-1)/cols)*54,protectedEdge=i<=p.left||i>p.start-p.right,kind=marks.get(i)||'plain',fill=protectedEdge?'#c5ccdc':kind==='kfb'?'#e7a87e':kind==='k2tog'?'#b2a5da':'#c7e7e5';
   body+='<rect x="'+x+'" y="'+y+'" width="14" height="24" rx="4" fill="'+fill+'"><title>Source '+i+' · '+e(protectedEdge?'protected edge':kind)+'</title></rect>';
-  if((i-1)%cols===0||i%10===0||i===p.start)body+='<text x="'+x+'" y="'+(y+40)+'" font-size="11">'+i+'</text>';
+  if((i-1)%cols===0||i%10===0||i===p.start)body+='<text x="'+x+'" y="'+(y+40)+'" font-size="12">'+i+'</text>';
  }
  for(const event of a.events)if(event.kind==='m1'){
   const i=event.afterSource,x=72+((i-1)%cols)*17,y=115+Math.floor((i-1)/cols)*54;
